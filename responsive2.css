@@ -1,0 +1,21 @@
+.anime{
+    margin-top: 610%;
+   
+}
+
+.navbar li a{
+    margin: 8px;
+    
+}
+
+header img{
+    margin-left: 8%;
+}
+
+#search{
+    position: absolute;
+    left: 90%;
+    top: 3%;
+    color: gray;
+    z-index: 1;
+}
